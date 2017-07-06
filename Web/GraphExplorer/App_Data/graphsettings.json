@@ -1,0 +1,177 @@
+{
+  "__defaultItem": {
+    "iconGroups": {
+      "Organization": {
+        "shape": "icon",
+        "icon": {
+          "face": "CommercialGraphIcons",
+          "code": "",
+          "size": 25,
+          "color": "#525252"
+        }
+      },
+      "Agreement": {
+        "shape": "icon",
+        "icon": {
+          "face": "CommercialGraphIcons",
+          "code": "",
+          "size": 25,
+          "color": "#006837"
+        }
+      },
+      "AssetPosition": {
+        "shape": "icon",
+        "icon": {
+          "face": "CommercialGraphIcons",
+          "code": "",
+          "size": 25,
+          "color": "#006837"
+        }
+      },
+      "EnterpriseSubscription": {
+        "shape": "icon",
+        "icon": {
+          "face": "CommercialGraphIcons",
+          "code": "",
+          "size": 25,
+          "color": "#1964bc"
+        }
+      },
+      "Tenant": {
+        "shape": "icon",
+        "icon": {
+          "face": "CommercialGraphIcons",
+          "code": "",
+          "size": 25,
+          "color": "#1964bc"
+        }
+      },
+      "EnterpriseOffer": {
+        "shape": "icon",
+        "icon": {
+          "face": "CommercialGraphIcons",
+          "code": "",
+          "size": 25,
+          "color": "#1964bc"
+        }
+      },
+      "ServicePlan": {
+        "shape": "icon",
+        "icon": {
+          "face": "CommercialGraphIcons",
+          "code": "",
+          "size": 25,
+          "color": "#1964bc"
+        }
+      }
+    },
+    "options": {
+      "nodeSize": 25,
+      "edgeSize": 1,
+      "iconSize": 25,
+      "defaultNodeShape": "box",
+      "labelMappings": {},
+      "physicsSolver": "forceAtlas2Based",
+      "edgeColors": {}
+    },
+    "showEdgeLabel": false
+  },
+  "graphcoll": {
+    "iconGroups": {
+      "Organization": {
+        "shape": "icon",
+        "icon": {
+          "face": "CommercialGraphIcons",
+          "code": "",
+          "size": 30,
+          "color": "#525252"
+        }
+      },
+      "Agreement": {
+        "shape": "icon",
+        "icon": {
+          "face": "CommercialGraphIcons",
+          "code": "",
+          "size": 30,
+          "color": "#006837"
+        }
+      },
+      "AssetPosition": {
+        "shape": "icon",
+        "icon": {
+          "face": "CommercialGraphIcons",
+          "code": "",
+          "size": 30,
+          "color": "#006837"
+        }
+      },
+      "EnterpriseSubscription": {
+        "shape": "icon",
+        "icon": {
+          "face": "CommercialGraphIcons",
+          "code": "",
+          "size": 30,
+          "color": "#1964bc"
+        }
+      },
+      "Tenant": {
+        "shape": "icon",
+        "icon": {
+          "face": "CommercialGraphIcons",
+          "code": "",
+          "size": 30,
+          "color": "#1964bc"
+        }
+      },
+      "EnterpriseOffer": {
+        "shape": "icon",
+        "icon": {
+          "face": "CommercialGraphIcons",
+          "code": "",
+          "size": 30,
+          "color": "#1964bc"
+        }
+      },
+      "ServicePlan": {
+        "shape": "icon",
+        "icon": {
+          "face": "CommercialGraphIcons",
+          "code": "",
+          "size": 30,
+          "color": "#1964bc"
+        }
+      },
+      "person": {
+        "shape": "icon",
+        "icon": {
+          "face": "Glyphicons Halflings",
+          "code": "",
+          "size": 30,
+          "color": "Green"
+        }
+      },
+      "location": {
+        "shape": "icon",
+        "icon": {
+          "face": "Glyphicons Halflings",
+          "code": "",
+          "size": 30,
+          "color": "Blue"
+        }
+      }
+    },
+    "options": {
+      "nodeSize": 25,
+      "edgeSize": 2,
+      "iconSize": 30,
+      "defaultNodeShape": "box",
+      "labelMappings": {
+        "person": "firstName",
+        "location": "name"
+      },
+      "physicsSolver": "forceAtlas2Based",
+      "edgeColors": {}
+    },
+    "showEdgeLabel": false
+  }
+}
